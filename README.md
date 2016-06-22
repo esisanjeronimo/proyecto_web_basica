@@ -30,18 +30,5 @@ Modifica el README para que queden solo:
     - Realizar templates de elementos repetitivos como el footer y el header (propongo usar handlebars).
     - Realizar el menú responsivo
 
-- Página de inicio:
-
-    ![](./sources//Inicio.png)
-
-- Página con listado:
-
-    ![](./sources/cervezas.png)
-
-- Formulario de contacto:
-
-    ![](./sources/contactar.png)
-
-- Vista movil:
-
-    ![](./sources/inicio_mobile.png)
+## Mi url
+[Mi web](www.heraldo.es)
